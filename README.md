@@ -22,4 +22,4 @@ Improving my backend development skills
 Strengthening problem-solving and logic building
 🎯 Goal
 
-My goal is to become a skilled software developer and contribute to impactful projects in the tech industry.
+My goal is to become a skilled python full stack  developer and contribute to impactful projects in the tech industry.
